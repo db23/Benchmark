@@ -23,8 +23,6 @@ public class Test {
         System.out.println("Time Elapsed: " + elapsedtime);
 
 
-        System.out.println("Modificato online su github");
-
     }
 
 }
