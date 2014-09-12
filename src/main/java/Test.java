@@ -12,6 +12,8 @@ public class Test {
 
 System.out.println("Bravo luca");
 
+System.out.println("Bravo  luca 2");
+
         for (int i = 0; i < 1000; i++) {
 
             System.out.println("printing ...");
