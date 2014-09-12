@@ -10,6 +10,7 @@ public class Test {
         long elapsedtime;
         long time = System.currentTimeMillis();
 
+System.out.println("Bravo luca");
 
         for (int i = 0; i < 1000; i++) {
 
